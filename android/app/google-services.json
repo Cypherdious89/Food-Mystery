@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129164475129",
+    "project_id": "foodmystery-ps09",
+    "storage_bucket": "foodmystery-ps09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129164475129:android:c0479536c1abb72b83c028",
+        "android_client_info": {
+          "package_name": "com.priyansh09.foodMystery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129164475129-o5pqopkmv4775idans5o14rj2ms0c94m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOrjImA5Nw9_EHFXZWaM26-qzqhSiZc-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129164475129-o5pqopkmv4775idans5o14rj2ms0c94m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
